@@ -1,4 +1,4 @@
-# Master Title
+# Bug Title
 
 Comment added from the feature brnach 
 
