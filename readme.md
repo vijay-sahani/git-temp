@@ -1,5 +1,6 @@
 # Bug Title
 
-Comment added from the feature brnach 
+I've made fews changes in the file 
+This comment was added from test
 
-version 5.0
+version 4.0
