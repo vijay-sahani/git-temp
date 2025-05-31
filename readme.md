@@ -1,4 +1,4 @@
-# Git Test
+# Master Title
 
 I've made fews changes in the file 
 This comment was added from test
